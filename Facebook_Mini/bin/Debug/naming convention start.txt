@@ -1,0 +1,4 @@
+ACL - Access List
+FSH - File Share Resource
+LCL - Local Machine Rights Resource
+

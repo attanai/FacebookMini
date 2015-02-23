@@ -1,0 +1,30 @@
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Digital Dimensions\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\bin\Debug\Facebook_Mini.exe.manifest
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\bin\Debug\Facebook_Mini.application
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\bin\Debug\Facebook_Mini.exe
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\bin\Debug\Facebook_Mini.pdb
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.TrustInfo.xml
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.exe.manifest
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.application
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.exe
+C:\Users\Digital Dimensions\Documents\Andrew\Dropbox\c#\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.pdb
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.exe
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.pdb
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.csprojResolveAssemblyReference.cache
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.csproj.GenerateResource.Cache
+C:\Users\along\Dropbox\cSharp\Facebook_Mini\Facebook_Mini\obj\x86\Debug\Facebook_Mini.TrustInfo.xml
